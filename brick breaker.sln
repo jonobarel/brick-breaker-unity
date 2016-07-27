@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{14F3E406-E701-5AD7-57A6-7C98E8F3DD83}") = "brick breaker", "Assembly-CSharp.csproj", "{DACEE300-1666-F9DC-7107-9B1F9B91F0BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DACEE300-1666-F9DC-7107-9B1F9B91F0BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACEE300-1666-F9DC-7107-9B1F9B91F0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACEE300-1666-F9DC-7107-9B1F9B91F0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACEE300-1666-F9DC-7107-9B1F9B91F0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
